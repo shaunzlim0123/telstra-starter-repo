@@ -1,4 +1,4 @@
-package com.example.accessingdatajpa;
+package au.com.telstra.accessingdatajpa;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

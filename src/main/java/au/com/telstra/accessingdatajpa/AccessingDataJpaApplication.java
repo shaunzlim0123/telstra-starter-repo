@@ -1,4 +1,4 @@
-package com.example.accessingdatajpa;
+package au.com.telstra.accessingdatajpa;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

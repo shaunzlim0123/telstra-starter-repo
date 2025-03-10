@@ -1,4 +1,4 @@
-package com.example.accessingdatajpa;
+package au.com.telstra.accessingdatajpa;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
